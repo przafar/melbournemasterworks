@@ -14,7 +14,7 @@
           >
             <div class="text-center">
               <h1 class="text-h1  mb-3">
-                Landingpro nuxtjs kit
+                Melbournemasterworks nuxtjs kit
               </h1>
               <h4 class="text-h5  font-weight-regular ">
                 Built with Nuxt Js and based on Vuetify js Free UI Kit
